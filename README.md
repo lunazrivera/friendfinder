@@ -6,7 +6,7 @@ This application is a friend pairer. This app site will take in results from you
 
 ## Demo
 
-To see how this application work click here.
+To see how this application work click [here](https://friendmatch12.herokuapp.com/).
 
 ## How to install and run application
 
